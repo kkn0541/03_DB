@@ -66,6 +66,9 @@ GROUP BY JOB_CODE
 ORDER BY JOB_CODE;
 
 
+
+
+
 --EMPLOYEE 테이블에서 
 --성별(남/여)과 각 성별 별 인원수 , 급여 합을 
 -- 인원 수 오름차순 조회 
